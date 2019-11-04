@@ -7,7 +7,7 @@ namespace Test.TC
         static void Main(string[] args)
         {
             Console.WriteLine("Hello TeamCity!");
-            Console.WriteLine("Bag")
+            Console.WriteLine("Bag");
         }
     }
 }
